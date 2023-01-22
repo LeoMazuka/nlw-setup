@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 É um calendário de hábitos que mostra metas a serem compridas.
+- [visite o projeto](https://leomazuka.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
